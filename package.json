@@ -1,0 +1,29 @@
+{
+  "name": "renaissance-test-html-reporter",
+  "version": "0.1.0",
+  "description": "renaissance test html reporter module",
+  "main": "renaissance-test-html-reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frncsdrk/renaissance-test-html-reporter.git"
+  },
+  "keywords": [
+    "renaissance",
+    "test",
+    "html",
+    "reporter"
+  ],
+  "author": "frncsdrk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frncsdrk/renaissance-test-html-reporter/issues"
+  },
+  "homepage": "https://github.com/frncsdrk/renaissance-test-html-reporter#readme",
+  "dependencies": {
+    "renaissance": "^0.3.0",
+    "renaissance-test": "^0.1.0"
+  }
+}
