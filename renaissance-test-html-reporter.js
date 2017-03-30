@@ -4,7 +4,7 @@
 define(
     [
         'renaissance'
-        , '../demo/scripts/rjs/append_html_drink'
+        , 'node_modules/renaissance-append-html/appendHTML'
     ]
     , function(renaissance, appendHTML) {
         // appendHTML drink

@@ -1,6 +1,6 @@
 {
   "name": "renaissance-test-html-reporter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "renaissance test html reporter module",
   "main": "renaissance-test-html-reporter.js",
   "scripts": {
@@ -24,6 +24,7 @@
   "homepage": "https://github.com/frncsdrk/renaissance-test-html-reporter#readme",
   "dependencies": {
     "renaissance": "^0.3.0",
+    "renaissance-append-html": "^0.1.1",
     "renaissance-test": "^0.1.0"
   }
 }
