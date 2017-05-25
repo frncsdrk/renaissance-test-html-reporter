@@ -1,6 +1,6 @@
 {
   "name": "renaissance-test-html-reporter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "renaissance test html reporter module",
   "main": "renaissance-test-html-reporter.js",
   "scripts": {
